@@ -1,4 +1,4 @@
-<p align="center">Hi! I'm Maria❤️.<br><br> I'm just exploring the world of Programming, discovering and learning its languages❤️<br><br>I am currently studying Analysis and Systems Development.</p>&nbsp;
+<p align="center">Hi! I'm Maria❤️.<br><br> I'm just exploring the world of Programming, discovering and learning its languages.<br><br>I am currently studying Analysis and Systems Development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Mxriaa135&theme=radical&mode=weekly" />

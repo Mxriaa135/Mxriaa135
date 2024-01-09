@@ -1,4 +1,4 @@
-<p align="center">Hi! I'm Maria. I'm just exploring the world of Programming, discovering and learning its languages.❤️. <br><br>I am currently studying Analysis and Systems Development.</p>&nbsp;
+<p align="center">Hi! I'm Maria❤️.<br><br> I'm just exploring the world of Programming, discovering and learning its languages❤️<br><br>I am currently studying Analysis and Systems Development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Mxriaa135&theme=radical&mode=weekly" />
@@ -44,6 +44,10 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 
+#### 📚 Education:
+<a href="https://www.sptech.school" target="_blank"><img src="https://img.shields.io/badge/SpTech-204ECF?style=for-the-badge&logo=SpTech&logoColor=white"  target="_blank"></a>
+<a href="https://www.udemy.com/?utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=yNfEamYSgXk&ranMID=47901&ranEAID=yNfEamYSgXk&ranSiteID=yNfEamYSgXk-2z687JcYZK10rwH7Svufsw&gclid=CjwKCAiA1-6sBhAoEiwArqlGPjd7XDNlTWwAWeR0AWpxR3fr6JSkdSnX8H3BKsbdGRSuOKy2WI5QhhoC4lMQAvD_BwE" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"  target="_blank"></a>
+
 &nbsp;
 &nbsp;
 
@@ -54,7 +58,7 @@
 </a>
 <a href = "mailto:contato.mariaclaracorreamoraes6@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/maria-clara-8a5030267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.sptech.school" target="_blank"><img src="https://img.shields.io/badge/SpTech-204ECF?style=for-the-badge&logo=SpTech&logoColor=white"  target="_blank"></a>
+
 </div>&nbsp;&nbsp;
  
 

@@ -47,6 +47,7 @@
 #### 📚 Education:
 <a href="https://www.sptech.school" target="_blank"><img src="https://img.shields.io/badge/SpTech-204ECF?style=for-the-badge&logo=SpTech&logoColor=white"  target="_blank"></a>
 <a href="https://www.udemy.com/?utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=yNfEamYSgXk&ranMID=47901&ranEAID=yNfEamYSgXk&ranSiteID=yNfEamYSgXk-2z687JcYZK10rwH7Svufsw&gclid=CjwKCAiA1-6sBhAoEiwArqlGPjd7XDNlTWwAWeR0AWpxR3fr6JSkdSnX8H3BKsbdGRSuOKy2WI5QhhoC4lMQAvD_BwE" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"  target="_blank"></a>
+<a href="https://on.fiap.com.br/local/nanocourses/index.php" target="_blank"><img src="https://img.shields.io/badge/fiap-F40027?style=for-the-badge&logo=fiap&logoColor=white"  target="_blank"></a>
 
 &nbsp;
 &nbsp;
